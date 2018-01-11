@@ -27,15 +27,23 @@ and community builder, and has been a champion of Open Source for many years. Ka
 Circuit roots are [MicroPython](https://micropython.org/) - Designed for learning w/ direct write to board
 
 [Adafruit Discord](adafru.it/discord)
+
 [Adafruit tutorial](learn.adafruit.com)
+
 Begin experimenting with [trinket](https://learn.adafruit.com/introducing-trinket/introduction?gclid=EAIaIQobChMI0oy7o-rQ2AIVkLfACh0KKATcEAAYAiAAEgIh5_D_BwE)
 using [install](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython)
+
 [Metro Detroit Linux Users Group](http://mdlug.org/)
 
 [Southeateastern Michigan Computer Organization](https://www.wordpress.semco.org/)
+
 [Ann Arbor Computer Society](https://www.meetup.com/AnnArborComputerSociety/)
+
 [AdaFruit Circuit Python Source](https://github.com/adafruit/circuitpython)
+
 [Michigan Python Users Group](https://groups.google.com/forum/#!forum/michipug)
+
 [Sterling Heights ocmputer Club](http://www.sterlingheightscomputerclub.org/)
+
 [Southern Michigan BSD users group](http://www.semibug.org/)
 
