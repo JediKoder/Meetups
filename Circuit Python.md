@@ -1,12 +1,18 @@
 
 January 9th, 2018 - [MUG Meeting](http://www.mug.org/)
+
 [Circuit Python](https://github.com/adafruit/circuitpython/releases) with [Kattni Rembor](https://detroitstartupweek2017.sched.com/speaker/kattni)
 
 [Trello](https://trello.com/b/FNxnn9mt/michigan-usr-group-topics-speakers)
+
 [Adafruit Kattni](https://learn.adafruit.com/users/kattni)
+
 [Adafruit buckets](https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=bin/0)
+
 Can use any editor - here's [MU](https://github.com/adafruit?utf8=%E2%9C%93&q=mu+editor&type=&language=)
+
 [Circuit Python Beta](https://blog.adafruit.com/2017/01/09/welcome-to-the-adafruit-circuitpython-beta/)
+
 [Plans for the future](https://blog.adafruit.com/2017/09/19/circuitpython-3-0-plans/)
 
 
