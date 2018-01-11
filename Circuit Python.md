@@ -24,7 +24,7 @@ Bio.
 Kattni Rembor is an independent contractor with Adafruit Industries. She works as an embedded software developer, technical writer,
 and community builder, and has been a champion of Open Source for many years. Kattni also serves as a MUG board member.
 
-Circuit roots are [MicroPython](https://micropython.org/) - Designed for learning w/ direct write to board
+Circuit python roots are [MicroPython](https://micropython.org/) - Designed for learning w/ direct write to board
 
 [Adafruit Discord](adafru.it/discord)
 
